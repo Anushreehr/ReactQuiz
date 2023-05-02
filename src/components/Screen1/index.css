@@ -1,0 +1,20 @@
+.main {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5rem;
+  align-items: center;
+}
+
+.sub-main {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.sub-heading_heading {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 6rem;
+}
