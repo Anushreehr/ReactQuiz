@@ -11,8 +11,8 @@
 .sub-main_main {
   display: flex;
 margin: 1rem 1.5rem;
-gap: 1.2rem;
-width: max-content;
+
+
 
   align-items: center;
 }
@@ -31,9 +31,26 @@ width: max-content;
 
 .sub-main_options {
   border: none;
-  padding: 0.5rem 13rem;
+  
+  padding: 0.5rem 11rem;
   background-color: rgba(128, 128, 128, 0.736);
 }
 .input {
   margin-top: 1rem;
+}
+.sub-main_a{
+  width: 100%;
+}
+.sub-main_main_a{
+  width: 100%;
+}
+.sub_main_b{
+  width: 15%;
+}
+.sub_main_x{
+  width: 85%;
+}
+.Button {
+  display: block;
+  margin: auto
 }
